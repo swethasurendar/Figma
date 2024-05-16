@@ -92,13 +92,13 @@ Figma
 
 
 ## OUTPUT:
-![alt text](Output1.png)
 
-![alt text](output2.png)
+![Output1](https://github.com/swethasurendar/Figma/assets/133625914/2d7b79d0-4ff9-4367-bee6-c3816ae46359)
+![Output1](https://github.com/swethasurendar/Figma/assets/133625914/7d672c11-cc03-4555-853a-5af953fde301)
 
-![alt text](out3.png)
 
-![alt text](out4.png)
+
+
 
 
 ## RESULT:
